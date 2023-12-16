@@ -6,5 +6,12 @@
 			"surname": "Fesiuk",
 			"balance": "1500"
 		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "notebook",
+			"price": "20000"
+		}
 	]
 }
