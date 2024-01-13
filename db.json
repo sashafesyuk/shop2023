@@ -10,6 +10,7 @@
 	"products": [
 		{
 			"id": 1,
+			"photo_url": "https://img.gkbcdn.com/p/2020-06-17/Xiaomi-Mi-Notebook-Pro-Enhanced-Edition-i5-10210U-8GB-1TB-Gray-906821-._w500_p1_.jpg",
 			"name": "notebook",
 			"price": "20000"
 		}
